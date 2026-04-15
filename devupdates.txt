@@ -6,3 +6,4 @@ Revamped Handsup script
 Cityhall Setup
 Added Custom Vape smoking script
 Removed camera idling
+Updated Qs_housing
