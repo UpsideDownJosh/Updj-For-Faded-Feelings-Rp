@@ -4,3 +4,4 @@ Removed Peds from casino
 Added /rob for players with handsup
 Revamped Handsup script
 Cityhall Setup
+Added Custom Vape smoking script
