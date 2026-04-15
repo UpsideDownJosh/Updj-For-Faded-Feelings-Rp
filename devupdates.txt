@@ -5,3 +5,4 @@ Added /rob for players with handsup
 Revamped Handsup script
 Cityhall Setup
 Added Custom Vape smoking script
+Removed camera idling
