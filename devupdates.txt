@@ -16,3 +16,4 @@ Added Custom Serv Restart Push Export
 Fixed Dealership
 Fixed issues when players cannot get out of vehicle
 Fixed Pedscale db issues
+Updated logs via discord
