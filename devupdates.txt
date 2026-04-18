@@ -18,3 +18,4 @@ Fixed issues when players cannot get out of vehicle
 Fixed Pedscale db issues
 Updated logs via discord
 Ambulance: Disabled Crawling while down
+Updated Fist damage Modifier
