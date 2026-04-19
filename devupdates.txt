@@ -20,3 +20,4 @@ Updated logs via discord
 Ambulance: Disabled Crawling while down
 Updated Fist damage Modifier
 Added Temp Emote menu
+Added Custom Emote Menu Via UPDJ
