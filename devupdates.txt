@@ -23,3 +23,4 @@ Added Temp Emote menu
 Added Custom Emote Menu Via UPDJ
 Changed Casino Prize Car
 Added Anticheat
+Updated Knockout Ratio
