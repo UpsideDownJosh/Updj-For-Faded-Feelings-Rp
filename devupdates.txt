@@ -25,3 +25,4 @@ Changed Casino Prize Car
 Added Anticheat
 Updated Knockout Ratio
 Updated Dispatch & Ems Wp Issue
+Added Juice Scammer
