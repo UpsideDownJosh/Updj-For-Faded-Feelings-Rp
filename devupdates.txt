@@ -36,3 +36,4 @@ Re-formatted belts-> inv
 Backpack: Removed wearing model on use
 Shopscreator: Transfferred imgs
 ShopsCreator: Updated Shop UI
+Tebex: /Redeem Fixed & Updated
