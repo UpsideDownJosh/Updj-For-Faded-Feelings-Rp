@@ -38,3 +38,4 @@ Shopscreator: Transfferred imgs
 ShopsCreator: Updated Shop UI
 Tebex: /Redeem Fixed & Updated
 Loadingscreen: Added New Songs
+Gas: Updated Script/ Now able to be saved after being stored
