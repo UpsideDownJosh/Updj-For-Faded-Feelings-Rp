@@ -28,3 +28,4 @@ Updated Dispatch & Ems Wp Issue
 Added Juice Scammer
 Added Dc Smoking
 Lb-Phone: Updated Idle Animation upon use
+PedScale: Re-wrote script fixed saving issues
