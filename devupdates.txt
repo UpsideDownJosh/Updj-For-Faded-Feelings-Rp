@@ -29,3 +29,4 @@ Added Juice Scammer
 Added Dc Smoking
 Lb-Phone: Updated Idle Animation upon use
 PedScale: Re-wrote script fixed saving issues
+Updated Speeds on flying out W seatbelt on
