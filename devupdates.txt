@@ -42,3 +42,4 @@ Gas: Updated Script/ Now able to be saved after being stored
 Added New Chat
 Added powerwashing job
 Fixed Belts & powerwasher not coming out
+Added Custom Inventory CSS
