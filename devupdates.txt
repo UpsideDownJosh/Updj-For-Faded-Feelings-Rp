@@ -53,3 +53,4 @@ Added /escort
 Gym script - Reinstall
 Enabled other housing blips
 Added Cooldown on Carry to prevant spams
+Disabled Joins and leaves on chat
