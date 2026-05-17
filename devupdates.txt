@@ -52,3 +52,4 @@ Changed text ui for dealership
 Added /escort 
 Gym script - Reinstall
 Enabled other housing blips
+Added Cooldown on Carry to prevant spams
