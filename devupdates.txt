@@ -57,3 +57,4 @@ Disabled Joins and leaves on chat
 Server Maintainece Updates
 Debugging Scripts..
 PD:Fixed Missing dependincies via config 
+BeautySeats: Fixed Error'd Symbols
