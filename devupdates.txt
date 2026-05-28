@@ -60,3 +60,4 @@ PD:Fixed Missing dependincies via config
 BeautySeats: Fixed Error'd Symbols
 Spawn: TroubleShooting via deadstate
 Enabled Extra debug logging for TroubleShooting
+Framework: Fixed Client Sided error
