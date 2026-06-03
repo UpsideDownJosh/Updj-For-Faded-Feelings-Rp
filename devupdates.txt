@@ -69,3 +69,4 @@ Added Checker/Blood Functions via spawwn
 Added Updj-Richestplayers
 Disabled marker data via pd
 Added updj_vehmenu.
+Fixed inventory shops typo
