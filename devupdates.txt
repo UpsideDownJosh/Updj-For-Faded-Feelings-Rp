@@ -75,3 +75,4 @@ Removed Backpack Anim
 Added missing cars baack in
 Updated Inventory
 Removed Ox_core
+Changed Phone animation
