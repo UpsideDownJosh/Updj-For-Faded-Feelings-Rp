@@ -78,3 +78,4 @@ Removed Ox_core
 Changed Phone animation
 Added Updj Loading Screen
 Updated Song list via config
+Added Updj _watergun
