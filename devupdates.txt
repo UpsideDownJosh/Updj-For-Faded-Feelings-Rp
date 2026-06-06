@@ -83,3 +83,4 @@ Added wg to ox_inv
 Updated inventory UI fixed overlay use
 Removed other ped options via clothing menu
 Added ems cars 
+Added Updj_vehmenu
