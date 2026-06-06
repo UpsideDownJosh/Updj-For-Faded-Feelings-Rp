@@ -81,3 +81,4 @@ Updated Song list via config
 Added Updj _watergun
 Added wg to ox_inv
 Updated inventory UI fixed overlay use
+Removed other ped options via clothing menu
