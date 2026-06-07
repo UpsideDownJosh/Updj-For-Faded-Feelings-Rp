@@ -89,3 +89,4 @@ vms city hall fixes
 vms documents fixes
 Cleared Server Cache
 Updated Updj Watergun script
+Fixed escort from disabling all binds
