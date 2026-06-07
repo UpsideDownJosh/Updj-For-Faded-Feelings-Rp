@@ -90,3 +90,4 @@ vms documents fixes
 Cleared Server Cache
 Updated Updj Watergun script
 Fixed escort from disabling all binds
+Changed forced bind - F5 via escort to choice via fiveM binds
