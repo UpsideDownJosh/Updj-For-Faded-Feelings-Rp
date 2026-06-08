@@ -96,3 +96,4 @@ Ems: Updated Death timer
 Gym: conerted to ox lib notify
 Fixed /tv
 Casino:Removed doubled entry 
+Fixed mech shops to be unique to job
