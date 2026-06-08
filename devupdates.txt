@@ -97,3 +97,4 @@ Gym: conerted to ox lib notify
 Fixed /tv
 Casino:Removed doubled entry 
 Fixed mech shops to be unique to job
+knockout set to half health
