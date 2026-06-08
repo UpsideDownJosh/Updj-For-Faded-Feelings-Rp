@@ -92,3 +92,4 @@ Updated Updj Watergun script
 Fixed escort from disabling all binds
 Changed forced bind - F5 via escort to choice via fiveM binds
 Updated Pd Entry garage distnace
+Ems: Updated Death timer
