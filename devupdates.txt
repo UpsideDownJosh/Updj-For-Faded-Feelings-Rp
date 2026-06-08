@@ -94,3 +94,4 @@ Changed forced bind - F5 via escort to choice via fiveM binds
 Updated Pd Entry garage distnace
 Ems: Updated Death timer
 Gym: conerted to ox lib notify
+Fixed /tv 
