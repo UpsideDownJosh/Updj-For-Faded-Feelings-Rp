@@ -101,3 +101,4 @@ knockout set to half health
 Discord bot setup via whitelist
 Players can now rob when dead
 Added custom peacetime script(updj)
+Added /shirt /shoes etc
