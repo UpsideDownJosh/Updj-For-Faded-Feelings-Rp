@@ -103,3 +103,4 @@ Players can now rob when dead
 Added custom peacetime script(updj)
 Added /shirt /shoes etc
 Added RadioList for radio names 
+Disabled alerts for pd via cd dispatch
