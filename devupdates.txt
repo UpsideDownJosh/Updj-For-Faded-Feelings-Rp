@@ -121,3 +121,4 @@ Fixed Bodybag
 Added clothingg menu via bennys locker room
 Updated slots via housing stashes
 Disabled decorating only for owners
+Updated Vip guns dmg value
