@@ -115,3 +115,4 @@ Modifed peacetime patch for non pvp after time
 Added pd heli garage
 Added updj_piggyback
 Removed criminal bm left female bm
+Enabled cd dispatch for house robbing
