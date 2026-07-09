@@ -118,3 +118,4 @@ Removed criminal bm left female bm
 Enabled cd dispatch for house robbing
 Enabled dispatch for drugs sellings
 Fixed Bodybag
+Added clothingg menu via bennys locker room
