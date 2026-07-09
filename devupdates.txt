@@ -117,3 +117,4 @@ Added updj_piggyback
 Removed criminal bm left female bm
 Enabled cd dispatch for house robbing
 Enabled dispatch for drugs sellings
+Fixed Bodybag
