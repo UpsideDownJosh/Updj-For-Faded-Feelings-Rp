@@ -123,3 +123,4 @@ Updated slots via housing stashes
 Disabled decorating only for owners
 Updated Vip guns dmg value
 fsvip: Fixed syntax error
+Updated slots for backpack 15>25
