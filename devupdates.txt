@@ -130,3 +130,4 @@ Updated Songs via loadingscreen
 Updated Updj carplay
 Added Yummyicecreamshop
 Removed Delay for piggyback
+Updated bandage heal amount
