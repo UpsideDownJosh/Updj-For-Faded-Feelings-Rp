@@ -136,3 +136,4 @@ Fixed inventory errors via vec coords
 Updated loadingscreen css
 Added heli spawn for ems
 Removed extra pd blip
+Updated furniture decoration limit
