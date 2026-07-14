@@ -137,3 +137,4 @@ Updated loadingscreen css
 Added heli spawn for ems
 Removed extra pd blip
 Updated furniture decoration limit
+Fixed phone images not showing up
