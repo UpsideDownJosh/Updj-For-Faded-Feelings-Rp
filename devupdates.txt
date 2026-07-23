@@ -150,3 +150,4 @@ Fixed Ems medical bag now showing up
 Added Weed Items via inventory for housing
 Removed Critical Dmg via headshots 
 AdminMenu--> Updates
+Fixed GangMenu tablet not showing up
