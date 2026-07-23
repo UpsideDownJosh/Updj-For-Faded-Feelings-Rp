@@ -146,3 +146,4 @@ Updated Casino Prize Car
 AdminMenu-> Comms Update
 Updated Pimp -> Removed naked models
 Fixed EmoteMenu Not SHowing up
+Fixed Ems medical bag now showing up
