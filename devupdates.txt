@@ -153,3 +153,4 @@ AdminMenu--> Updates
 Fixed GangMenu tablet not showing up
 Inventory: Item Additions via dependincies
 Fixed Paintball 
+Inventory:Added Client Events via pb
