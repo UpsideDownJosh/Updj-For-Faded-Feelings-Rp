@@ -154,3 +154,4 @@ Fixed GangMenu tablet not showing up
 Inventory: Item Additions via dependincies
 Fixed Paintball 
 Inventory:Added Client Events via pb
+Updated Backpacks to now take pincodes to be entered
