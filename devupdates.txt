@@ -151,3 +151,4 @@ Added Weed Items via inventory for housing
 Removed Critical Dmg via headshots 
 AdminMenu--> Updates
 Fixed GangMenu tablet not showing up
+Inventory: Item Additions via dependincies
