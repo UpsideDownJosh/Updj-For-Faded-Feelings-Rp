@@ -156,3 +156,4 @@ Fixed Paintball
 Inventory:Added Client Events via pb
 Updated Backpacks to now take pincodes to be entered
 Updated Loadingscreen
+Updated Crutch time from 1 min to 10 mins
