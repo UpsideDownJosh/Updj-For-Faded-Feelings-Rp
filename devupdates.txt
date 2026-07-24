@@ -158,3 +158,4 @@ Updated Backpacks to now take pincodes to be entered
 Updated Loadingscreen
 Updated Crutch time from 1 min to 10 mins
 Updated AI Medic
+Anticheat added
