@@ -162,3 +162,4 @@ Anticheat added
 Updated Ped Density
 Fixed Dealer ped via blicks and baddies
 Added Other businesses to servicecs app via phone
+Updated easytime - fixed issues blacking out in mlos
